@@ -7,8 +7,8 @@
 ### О Исходнике (Sourse)
 Тут находиться исходник проекта в конструктор 2. Construct 2 версия 279 64Bit x86. 
 ### Плагины
-> **[Notifications](https://www.construct.net/en/forum/extending-construct-2/addons-29/plugin-notifications-v1-3-62558) - v1.3 **. ; 
-> **аивап**
+> [Notifications](https://www.construct.net/en/forum/extending-construct-2/addons-29/plugin-notifications-v1-3-62558) - v1.3. ;   
+> 
 ### Софт
 ### Технологии
 ### Информация
