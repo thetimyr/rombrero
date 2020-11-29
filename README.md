@@ -5,7 +5,7 @@
 ### О Core
 Код был создан на JavaScript, также можете поэксперементировать с кодом, и поменять что либо.
 ### О Исходнике (Sourse)
-Тут находиться исходник проекта в конструктор 2. Construct 2 версия 279 64Bit x86. 
+Тут находиться исходник проекта в конструктор 2. Construct 2 Pro версия 279 64Bit x86. 
 ### Плагины
 > [Notifications](https://www.construct.net/en/forum/extending-construct-2/addons-29/plugin-notifications-v1-3-62558) - v1.3.    
 > [NFS](https://www.construct.net/en/forum/extending-construct-2/addons-29/nfc-plugin-90863#forumPost709917) - 1.0
