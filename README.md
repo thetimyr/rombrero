@@ -10,6 +10,9 @@
 > [Notifications](https://www.construct.net/en/forum/extending-construct-2/addons-29/plugin-notifications-v1-3-62558) - v1.3.    
 > [NFS](https://www.construct.net/en/forum/extending-construct-2/addons-29/nfc-plugin-90863#forumPost709917) - 1.0
 ### Софт
+> Камера - 1.3 - Мною - Приложение для съёмок  
+> Галерея - 1.0 - Мною - Галерея всех изображений локального диска с OS   
+>
 ### Технологии
 
 ### Информация
